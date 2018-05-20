@@ -6,8 +6,6 @@ Triangles
 Circles
 Adding general polygons implementation is present in my plans, gonna do that when I'll have some more free time
 
-It uses left-handed Cartesian coordinate system ( y's raises to down )
-
 Everything got packed into namespace to not colide with the sfml classes and for readability
 I'm using sfml's vector's class just for my comfort, you can easily implement your own and replace it
 
