@@ -1,6 +1,6 @@
 # Colsion-check-based-on-SAT
 
-This is my implementation of colision check based on separated axis theorem for given shapes:
+This is my implementation of colision detection based on separated axis theorem for given shapes:
 Rectangles
 Triangles
 Circles
